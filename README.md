@@ -1,3 +1,5 @@
+ BuildSignal
+
 BuildSignal is an AI agent that performs intelligent reasoning over real activity to generate execution signals for modern talent.
 
 ## Problem

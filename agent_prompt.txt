@@ -4,4 +4,4 @@ Analyze the following activity and extract execution signals, learning behavior,
 Return a structured execution profile including:
 •⁠  ⁠Build Signals
 •⁠  ⁠Learning Velocity
-•⁠  ⁠System Thinking
+•⁠  ⁠System Thinking 

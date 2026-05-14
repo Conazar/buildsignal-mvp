@@ -1,0 +1,7 @@
+agent_prompt.txt
+Analyze the following activity and extract execution signals, learning behavior, project complexity, iteration signals, and systems thinking.
+
+Return a structured execution profile including:
+•⁠  ⁠Build Signals
+•⁠  ⁠Learning Velocity
+•⁠  ⁠System Thinking

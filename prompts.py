@@ -166,46 +166,6 @@ Do not include markdown.
 Do not include explanations outside JSON.
 Do not include commentary before or after JSON.
 
-Use this exact schema:
-
-{
-  "build_signals": [
-    {
-      "signal": "",
-      "reasoning": ""
-    }
-  ],
-  "learning_velocity": {
-    "score": 0,
-    "reasoning": "",
-    "evidence": []
-  },
-  "systems_thinking": {
-    "score": 0,
-    "reasoning": "",
-    "evidence": []
-  },
-  "execution_style": {
-    "primary_style": "",
-    "secondary_traits": [],
-    "reasoning": ""
-  },
-  "adaptability": {
-    "score": 0,
-    "reasoning": "",
-    "evidence": []
-  },
-  "complexity_handling": {
-    "score": 0,
-    "reasoning": "",
-    "evidence": []
-  },
-  "behavioral_patterns": [],
-  "strengths": [],
-  "risk_signals": [],
-  "evidence_summary": [],
-  "overall_assessment": ""
-}
 
 --------------------------------------------------
 SCORING GUIDELINES

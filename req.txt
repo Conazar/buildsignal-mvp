@@ -1,0 +1,7 @@
+pygithub
+langchain
+langchain-core
+langchain_google_genai
+jinja2
+dotenv
+langchain-community
